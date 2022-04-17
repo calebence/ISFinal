@@ -1,0 +1,51 @@
+/*This contains the styles I used specifically for the Tableau page*/
+.common {
+    position:static
+}
+
+.background {
+    background-image: url(../images/green.jpeg);
+}
+
+.header {
+    width: 99%;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.mainbody {
+    width: 99%;
+    top: 105px;
+    left: 5px;
+    right: 5px;
+    height: 80%;
+}
+
+.footer {
+    width: 99%;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.bannercolor {
+    background-color: #f6e2c5;
+}
+
+#titlecolor {
+    color: #1a692e;
+}
+
+.chart {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    text-align: center;
+}

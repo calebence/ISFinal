@@ -1,0 +1,27 @@
+/*My Styles*/
+
+#navheader {
+    background-color: #e7a756;
+}
+
+#currentpage {
+    color: #11341a;
+    font-weight: bold;
+}
+
+#homebottomsection {
+    background-color: #11341a;
+}
+
+.topheader {
+    color: #f6e2c5;
+    display: block;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
